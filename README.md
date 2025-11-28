@@ -76,11 +76,12 @@ User account system with deposit logic and DB-based scores.
 </p>
 
 ---
-### 💫 Motivation of the Day
+### ✨ Motivation of the Day
 
 <p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?category=motivational&category=life&category=funny&theme=tokyo-night" alt="Daily Motivational Quote" />
 </p>
+
 
 
 
