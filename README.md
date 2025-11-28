@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Neha Kumari - AI & LLM Enthusiast" width="100%" />
+  <img src="animated_banner.png" alt="Neha Kumari - AI & LLM Enthusiast" width="100%" />
 </p>
 <!-- Typing Animation -->
 <p align="center">
