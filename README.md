@@ -26,28 +26,18 @@ I build efficient backend logic, automate real-world workflows, and explore AI t
 I enjoy writing clean code, learning new technologies, and contributing to impactful projects. 🚀
 
 ---
+## 🔥 My Skills
 
-### 🛠 Tech Skills
+| Category | Skills and Tools |
+| --- | --- |
+| **Programming Languages** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white) |
+| **Frontend Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| **Backend Development** | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=java&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=swagger&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
+| **AI / LLM & Automation** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EE4C2C?style=for-the-badge&logo=n8n&logoColor=white) |
+| **Tools & IDEs** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) |
 
-**Programming:**  
-`Java (Core & Advanced)` · `JavaScript`
 
-**Backend & APIs:**  
-`JDBC` · `REST APIs` · `Hibernate`
-
-**Databases:**  
-`SQL` · `MySQL` · `Oracle` · `PL/SQL`
-
-**Frontend:**  
-`HTML` · `CSS` · `Responsive Layouts (Flexbox & Grid)`
-
-**Developer Tools:**  
-`Git` · `GitHub` · `VS Code` · `Eclipse`
-
-**AI Tools:**  
-`ChatGPT` · `VS Code Copilot` · `n8n`
-
----
 
 ### 🚀 Featured Projects
 
@@ -75,16 +65,6 @@ User account system with deposit logic and DB-based scores.
 
 ---
 
-## 🔥 My Skills
-
-| Category | Skills and Tools |
-| --- | --- |
-| **Programming Languages** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white) |
-| **Frontend Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **Backend Development** | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=java&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=swagger&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
-| **AI / LLM & Automation** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EE4C2C?style=for-the-badge&logo=n8n&logoColor=white) |
-| **Tools & IDEs** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) |
 
 
 ### ⚡ GitHub Stats
@@ -96,6 +76,12 @@ User account system with deposit logic and DB-based scores.
 </p>
 
 ---
+### 💫 Motivation of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote" />
+</p>
+
 
 ### 🌍 Connect With Me
 
