@@ -41,17 +41,18 @@ I enjoy writing clean code, learning new technologies, and contributing to impac
 
 ### 🚀 Featured Projects
 
-🔹 **LinkedIn Job Automation | n8n, OpenAI, Google Sheets**  
-Automated job listings → Skill extraction → Logging insights to Google Sheets.
+- [LinkedIn Job Automation](https://github.com/neku2604/n8n_linkedin_job_listing) · *n8n, OpenAI, Google Sheets*  
+  Automates job listing data from LinkedIn → extracts skills → logs everything into Google Sheets for analysis.
 
-🔹 **Hotel Management System | HTML, CSS, MySQL**  
-Room booking & real-time room availability management.
+- [Hotel Management System](#) · *HTML, CSS, MySQL*  
+  Handles room booking and room availability with a structured DB design.
 
-🔹 **BMW Website Clone | HTML, CSS**  
-Fully responsive static clone — UI/UX and layout enhancement.
+- [BMW Website Clone](https://github.com/neku2604/bmw-website-clone) · *HTML, CSS*  
+  Responsive landing page focusing on clean layout and UI.
 
-🔹 **Play The Guess Game | Java, Hibernate, JDBC**  
-User account system with deposit logic and DB-based scores.
+- [Play The Guess Game](https://github.com/neku2604/GamingAppFlow) · *Java, Hibernate, JDBC*  
+  Console-based game with **user accounts, deposits and DB-based scores**.
+
 
 📌 Explore pinned repositories for more!
 
