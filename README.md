@@ -79,12 +79,9 @@ User account system with deposit logic and DB-based scores.
 ### ✨ Motivation of the Day
 
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?category=motivational&category=life&category=funny&theme=tokyo-night" alt="Daily Motivational Quote" />
+  <b>Small steps every day → Big changes ahead ✨🚀</b>
 </p>
-
-
-
-
+<hr style="border: 1px solid #444;">
 
 ### 🌍 Connect With Me
 
